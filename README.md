@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aditya-1304&theme=dark" alt="aditya-1304" /></a> </p>
 
-- I’m currently learning **Rusts** and  **Docker**
+- I’m currently learning **Rust** , **Anchor** and  **Solana**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

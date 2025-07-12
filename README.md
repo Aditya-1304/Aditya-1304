@@ -1,7 +1,7 @@
 # Hi... I'm Aditya <img src="https://user-images.githubusercontent.com/72663882/171687151-bb31c996-c9d2-49c8-b593-734946893b23.gif" alt="waving hand gif" aria-hidden="true" width="40" />
 
 
-<h3 align="center">A passionate Full-Stack developer in the making, continuously expanding my skill set and eager to tackle new challenges.</h3>
+<h3 align="center">Low level enjoyer (Rust and Assembly) and a Solana dev.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aditya-1304&label=Profile%20views&color=0e75b6&style=flat" alt="aditya-1304" /> </p>
 

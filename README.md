@@ -1,8 +1,4 @@
-### Aditya Mandal
 
-```
-> 20 year old
-> i write code that is closer to metal...
-```
-#### find more about me here
-https://www.adityamandal.tech/
+ i write code that is closer to metal...
+
+[adityamandal.tech](https://www.adityamandal.tech/)
